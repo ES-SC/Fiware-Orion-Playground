@@ -3,8 +3,8 @@ Ambiente para aprendizagem do Orion Context Broker, que faz parte do FIWARE - Pl
 
 #Para criar o ambiente virtual do python 3, dentro da pasta do projeto (fiware-orion-playground)
 
-	$ virtualenv -p python3 env
+	virtualenv -p python3 env
 
 #Para ativar o python do ambiente virtual
 
-	$ source env/bin/activate
+	source env/bin/activate
